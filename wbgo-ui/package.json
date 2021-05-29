@@ -1,7 +1,7 @@
 {
   "name": "wbgo-ui",
   "version": "0.1.0",
-  "homepage": "https://andybergon.github.io/wbgo",
+  "homepage": "http://andybergon.github.io/wbgo",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
